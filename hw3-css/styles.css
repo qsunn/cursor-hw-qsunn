@@ -42,8 +42,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container56-wrapper,
-.container78-wrapper {
+.container-wrapper {
     display: flex;
     margin-top: 72px;
 }
@@ -148,7 +147,6 @@ button {
     margin-right: 10px;
 }
 
-
 /* 4 */
 
 .container4 {
@@ -220,8 +218,8 @@ button {
     color: #fff;
 }
 
-.cookies-flex5 a,
-.cookies-flex5 a:visited {
+.btn-flex5 a,
+.btn-flex5 a:visited {
     font-size: 14px;
     font-weight: 500;
     line-height: 16px;
