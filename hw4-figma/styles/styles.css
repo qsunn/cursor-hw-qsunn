@@ -178,6 +178,6 @@ input {
 }
 
 .select {
-    background: url(img/arrow.svg) no-repeat;
+    background: url(/img/arrow.svg) no-repeat;
     background-position: 95%;
 }
