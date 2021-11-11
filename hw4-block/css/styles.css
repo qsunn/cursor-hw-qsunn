@@ -24,13 +24,13 @@ a {
 .landing {
     background: #ED4C5C;
     color: #fff;
-    padding: 94px 164px;
+    padding: 94px 0;
 }
 
 .landing-wrapper {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .offer {
@@ -70,18 +70,19 @@ a {
 .form-block {
     background: #fff;
     color: #000;
-    padding: 118px 164px;
+    padding: 118px 0;
 }
 
 .form-block-wrapper {
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .fb-text {
     font-size: 14px;
     max-width: 440px;
+    margin-right: 100px;
 }
 
 .fb-title {
@@ -124,6 +125,7 @@ input {
     background: #ED4C5C;
     color: #fff;
     border: 1.5px solid #ED4C5C;
+    cursor: pointer;
 }
 
 /* BLOCK #3 */
@@ -131,18 +133,19 @@ input {
 .footer {
     background: #FAFAFA;
     color: #101010;
-    padding: 84px 164px;
+    padding: 84px 0;
 }
 
 .footer-nav {
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .footer-block {
     font-size: 12px;
-    max-width: 200px;
+    width: 251px;
+    margin-right: 30px;
 }
 
 .footer-block:last-child {
