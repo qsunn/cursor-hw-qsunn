@@ -206,28 +206,23 @@ footer {
     background: #FAFAFA;
     color: #101010;
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .footer-wrapper {
-    width: 1080px;
     padding: 94px 0;
-    margin: 0 auto;
+    font-size: 12px;
 }
 
 .footer-nav {
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
     margin-bottom: 94px;
 }
 
 .footer-block {
-    font-size: 12px;
-    width: 224px;
-}
-
-.footer-block:last-child {
-    margin-right: 0;
+    width: 270px;
 }
 
 .footer-title {
@@ -261,7 +256,6 @@ select {
 }
 
 .copy {
-    font-size: 12px;
     line-height: 14px;
 }
 
