@@ -84,6 +84,10 @@ header {
         margin-bottom: 48px;
         text-align: justify;
     }
+    
+    .slider-img {
+        width: 100%;
+    }
 }
 
 /* BLOCK #2 */
