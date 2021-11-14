@@ -12,7 +12,7 @@ a {
 }
 
 .content-wrapper {
-    max-width: 100%;
+    width: 100%;
     margin: 0 auto;
     font-family: 'Lato', sans-serif;
     font-style: normal;
@@ -258,6 +258,11 @@ select {
     appearance: none;
     background: url(../img/arrow.svg) no-repeat;
     background-position: 95%;
+}
+
+.copy {
+    font-size: 12px;
+    line-height: 14px;
 }
 
 @media screen and (max-width: 768px) {
