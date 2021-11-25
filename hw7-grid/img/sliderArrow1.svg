@@ -1,0 +1,21 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1_2064)">
+<circle r="20" transform="matrix(-1 0 0 1 40 30)" fill="url(#paint0_linear_1_2064)"/>
+<path d="M42.7176 21.6872C42.8078 21.5918 42.8783 21.4795 42.9251 21.3567C42.972 21.234 42.9941 21.1033 42.9904 20.972C42.9867 20.8407 42.9572 20.7114 42.9035 20.5915C42.8498 20.4716 42.773 20.3635 42.6776 20.2732C42.5821 20.183 42.4698 20.1125 42.3471 20.0657C42.2243 20.0189 42.0936 19.9967 41.9623 20.0004C41.831 20.0041 41.7017 20.0337 41.5818 20.0873C41.4619 20.141 41.3538 20.2178 41.2636 20.3132L32.7636 29.3132C32.588 29.4989 32.4902 29.7447 32.4902 30.0002C32.4902 30.2558 32.588 30.5016 32.7636 30.6872L41.2636 39.6882C41.3532 39.7858 41.4613 39.8646 41.5816 39.92C41.702 39.9754 41.8321 40.0064 41.9645 40.0111C42.0969 40.0158 42.2289 39.9942 42.3529 39.9474C42.4768 39.9007 42.5903 39.8298 42.6866 39.7388C42.7829 39.6479 42.8602 39.5387 42.9139 39.4176C42.9677 39.2965 42.9969 39.166 42.9998 39.0335C43.0027 38.9011 42.9792 38.7694 42.9308 38.6461C42.8823 38.5228 42.8098 38.4103 42.7176 38.3153L34.8656 30.0002L42.7176 21.6872Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_1_2064" x="0" y="0" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.478431 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2064"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2064" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_2064" x1="-2.99886e-07" y1="20" x2="40.0074" y2="19.8385" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7A00"/>
+<stop offset="1" stop-color="#FFB039"/>
+</linearGradient>
+</defs>
+</svg>
