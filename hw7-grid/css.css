@@ -752,16 +752,6 @@ button {
     justify-self: center;
 }
 
-@media only screen and (max-width: 1440px) {
-    .bgMain,
-    .bgBlue {
-        display: none;
-    }
-    .headerRightSide a {
-        color: #111;
-    }
-}
-
 @media only screen and (max-width: 768px) {
     .wrapper {
         padding: 24px 12px;
