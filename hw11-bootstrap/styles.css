@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url(./font/helveticaneue-webfont.woff),
+    url(./font/helveticaneue-medium-webfont.woff);
+}
+
+a {
+    cursor: pointer;
+}
+
+.a__a {
+    color: #133768;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+.input {
+    width: 216px;
+}
+
+.input::placeholder {
+    text-align: center;
+    font-family: 'Helvetica Neue', 'FontAwesome', sans-serif;
+    color: #8F8F8F;
+}
+
+.icons img {
+    margin-right: 22px;
+}
+
+.icons img:last-child {
+    margin-right: 0;
+    margin-left: -8px;
+}
+
+.notification {
+    position: relative;
+}
+
+.notification-circle {
+    position: absolute;
+    top: -5px;
+    right: 14px;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background: #DC565B;
+}
+
+.mini-name {
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #262626;
+}
+
+.triangle {
+    height: 38px;
+    width: 38px;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.nav {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.09em;
+    cursor: pointer;
+}
+
+.passive {
+    color: #8F8F8F;
+}
+
+.hr {
+    position: relative;
+}
+
+.mini-line::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -17px;
+    height: 1px;
+    width: 60px;
+    background: #262626;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.img-pointer img {
+    cursor: pointer;
+}
+
+.img-pointer img:hover {
+    opacity: 0.8;
+}
