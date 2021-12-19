@@ -1,0 +1,14 @@
+.small-3a {
+    @include center;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    color: $clr-white;
+    background: $clr-red;
+
+    svg {
+        margin-right: 10px;
+    }
+}

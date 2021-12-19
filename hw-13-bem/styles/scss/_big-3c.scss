@@ -1,0 +1,20 @@
+.big-3c {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: 2px solid $clr-border;
+    color: $clr-black;
+    background: $clr-white;
+
+    svg {
+        margin-right: 10px;
+
+        path {
+            stroke: $clr-black;
+        }
+    }
+}

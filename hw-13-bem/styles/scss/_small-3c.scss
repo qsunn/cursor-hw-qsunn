@@ -1,0 +1,19 @@
+.small-3c {
+    @include center;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid $clr-border;
+    color: $clr-black;
+    background: $clr-white;
+
+    svg {
+        margin-right: 10px;
+
+        path {
+            stroke: $clr-black;
+        }
+    }
+}

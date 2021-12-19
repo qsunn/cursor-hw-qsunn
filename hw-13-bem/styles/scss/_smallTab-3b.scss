@@ -1,0 +1,12 @@
+.smallTab-3b {
+    @include center;
+    padding: 9px 24px;
+    margin-left: -1px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    border-radius: 0px;
+    color: $clr-black;
+    border: 1px solid $clr-border;
+    background: $clr-white;
+}

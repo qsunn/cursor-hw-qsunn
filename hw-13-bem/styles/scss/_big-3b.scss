@@ -1,0 +1,19 @@
+.big-3b {
+   display: flex;
+   align-items: center;
+   font-weight: 500;
+   font-size: 15px;
+   line-height: 18px;
+   padding: 12px 20px;
+   border-radius: 5px;
+   color: $clr-grey;
+   background: $clr-grey-opacity;
+
+    svg {
+       margin-right: 10px;
+
+       path {
+           stroke: $clr-grey;
+       }
+   }
+}

@@ -1,0 +1,14 @@
+.bigTab-1c {
+    @include center;
+    padding: 12px 16px;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: -1px;
+    border: 1px solid $clr-border;
+    background: $clr-white;
+
+    svg {
+        path {
+            stroke: $clr-black;
+        }
+    }
+}

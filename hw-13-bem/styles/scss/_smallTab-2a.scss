@@ -1,0 +1,11 @@
+.smallTab-2a {
+    @include center;
+    padding: 9px 24px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid $clr-border;
+    color: $clr-black;
+    background: $clr-white;
+}

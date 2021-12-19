@@ -1,0 +1,13 @@
+.smallTab-1c {
+    @include center;
+    padding: 6px 12px;
+    margin-left: -1px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid $clr-border;
+    background: $clr-white;
+    svg {
+        path {
+            stroke: $clr-black;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+.bigTab-2b {
+    @include center;
+    padding: 14px 48px;
+    margin-left: -1px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid $clr-border;
+    color: $clr-black;
+    background: $clr-white;
+}

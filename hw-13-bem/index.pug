@@ -1,0 +1,108 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(http-equiv="X-UA-Compatible", content="IE=edge")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        link(rel="stylesheet", href="./styles/styles.css")
+        title HW#13 BEM
+    body
+        .wrapper 
+            .big
+                h2.title Buttons Big
+                .btns 
+                    .btns__item 
+                        include html/big-1a.pug
+                    .btns__item
+                        include html/big-1b.pug
+                    .btns__item
+                        include html/big-1c.pug
+                    .btns__item
+                        include html/big-1d.pug
+                    .btns__tabs
+                        include html/bigTab-1a.pug
+                        include html/bigTab-1b.pug
+                        include html/bigTab-1c.pug
+                .btns 
+                    .btns__item 
+                        include html/big-2a.pug
+                    .btns__item
+                        include html/big-2b.pug
+                    .btns__item
+                        include html/big-2c.pug
+                    .btns__item
+                        include html/big-2d.pug
+                    .btns__tabs
+                        include html/bigTab-2a.pug
+                        include html/bigTab-2b.pug
+                .btns 
+                    .btns__item 
+                        include html/big-3a.pug
+                    .btns__item
+                        include html/big-3b.pug
+                    .btns__item
+                        include html/big-3c.pug
+                    .btns__item
+                        include html/big-3d.pug
+                    .btns__tabs
+                        include html/bigTab-3a.pug
+                        include html/bigTab-3b.pug
+                        include html/bigTab-3c.pug
+            .small  
+                h2.title Buttons Small
+                .btns 
+                    .btns__item 
+                        include html/small-1a.pug
+                    .btns__item
+                        include html/small-1b.pug
+                    .btns__item
+                        include html/small-1c.pug
+                    .btns__item
+                        include html/small-1d.pug
+                    .btns__tabs
+                        include html/smallTab-1a.pug
+                        include html/smallTab-1b.pug
+                        include html/smallTab-1c.pug
+                .btns 
+                    .btns__item 
+                        include html/small-2a.pug
+                    .btns__item
+                        include html/small-2b.pug
+                    .btns__item
+                        include html/small-2c.pug
+                    .btns__item
+                        include html/small-2d.pug
+                    .btns__tabs
+                        include html/smallTab-2a.pug
+                        include html/smallTab-2b.pug
+                .btns 
+                    .btns__item 
+                        include html/small-3a.pug
+                    .btns__item
+                        include html/small-3b.pug
+                    .btns__item
+                        include html/small-3c.pug
+                    .btns__item
+                        include html/small-3d.pug
+                    .btns__tabs
+                        include html/smallTab-3a.pug
+                        include html/smallTab-3b.pug
+                        include html/smallTab-3c.pug
+            .other
+                .tag
+                    .btns 
+                        .btns__item
+                            include html/otherTag-1a.pug
+                        .btns__item
+                            include html/otherTag-1b.pug
+                    .btns 
+                        .btns__item
+                            include html/otherTag-2a.pug
+                        .btns__item
+                            include html/otherTag-2b.pug
+                .search 
+                    .btns 
+                        .btns__item
+                            include html/otherSearch-1a.pug
+                        .btns__item
+                            include html/otherSearch-1b.pug

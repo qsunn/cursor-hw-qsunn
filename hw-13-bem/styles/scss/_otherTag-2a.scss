@@ -1,0 +1,11 @@
+.otherTag-2a {
+    @include center;
+    padding: 6px 14px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    border-radius: 5px;
+    color: $clr-black;
+    background: $clr-grey-opacity;
+    border: 1px solid $clr-border;
+}

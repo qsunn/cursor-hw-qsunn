@@ -1,0 +1,7 @@
+.smallTab-1a {
+    @include center;
+    padding: 6px 12px;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid $clr-border;
+    background: $clr-white;
+}

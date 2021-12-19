@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap');
+
+$clr-black: #2C2C2C;
+$clr-white: #ffffff;
+$clr-blue: #18A0FB;
+$clr-grey: #878787;
+$clr-red: #FF3E1D;
+$clr-green: #00D200;
+$clr-border: #E0E0E0;
+$clr-grey-opacity: rgba(224, 224, 224, 0.3);
+
+@mixin center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@import "./scss/null";
+@import "./scss/other";
+
+@import "./scss/big-1a";
+@import "./scss/big-1b";
+@import "./scss/big-1c";
+@import "./scss/big-1d";
+
+@import "./scss/bigTab-1a";
+@import "./scss/bigTab-1b";
+@import "./scss/bigTab-1c";
+
+@import "./scss/big-2a";
+@import "./scss/big-2b";
+@import "./scss/big-2c";
+@import "./scss/big-2d";
+
+@import "./scss/bigTab-2a";
+@import "./scss/bigTab-2b";
+
+@import "./scss/big-3a";
+@import "./scss/big-3b";
+@import "./scss/big-3c";
+@import "./scss/big-3d";
+
+@import "./scss/bigTab-3a";
+@import "./scss/bigTab-3b";
+@import "./scss/bigTab-3c";
+
+@import "./scss/small-1a";
+@import "./scss/small-1b";
+@import "./scss/small-1c";
+@import "./scss/small-1d";
+
+@import "./scss/smallTab-1a";
+@import "./scss/smallTab-1b";
+@import "./scss/smallTab-1c";
+
+@import "./scss/small-2a";
+@import "./scss/small-2b";
+@import "./scss/small-2c";
+@import "./scss/small-2d";
+
+@import "./scss/smallTab-2a";
+@import "./scss/smallTab-2b";
+
+@import "./scss/small-3a";
+@import "./scss/small-3b";
+@import "./scss/small-3c";
+@import "./scss/small-3d";
+
+@import "./scss/smallTab-3a";
+@import "./scss/smallTab-3b";
+@import "./scss/smallTab-3c";
+
+@import "./scss/otherTag-1a";
+@import "./scss/otherTag-1b";
+
+@import "./scss/otherTag-2a";
+@import "./scss/otherTag-2b";
+
+@import "./scss/otherSearch-1a";
+@import "./scss/otherSearch-1b";

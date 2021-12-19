@@ -1,0 +1,14 @@
+.otherTag-1a {
+    @include center;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 6px 10px;
+    border-radius: 5px;
+    color: $clr-black;
+    background: $clr-white;
+    border: 1px solid $clr-border;
+    svg {
+        margin-left: 6px;
+    }
+}
