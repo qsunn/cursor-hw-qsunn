@@ -205,7 +205,7 @@ button {
     letter-spacing: 0.05em;
     font-size: 18px;
     text-transform: uppercase;
-    font-family: HelveticaNeueBold;
+    font-family: "HelveticaNeueBold";
     background-color: #ffdc00;
     color: #333;
     height: 45px;
